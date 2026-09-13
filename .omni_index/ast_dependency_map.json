@@ -1,0 +1,2852 @@
+[
+  {
+    "file": "CHANGELOG.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "success"
+  },
+  {
+    "file": "CONTRIBUTING.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "pyproject.toml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.md",
+    "dependencies": [
+      "gm",
+      "gemma"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".pylintrc",
+    "dependencies": [
+      "fallback",
+      "order",
+      "in"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".readthedocs.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/multimodal.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/checkpoints.md",
+    "dependencies": [
+      "kagglehub"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/sampling.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/dialog.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/research.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/conf.py",
+    "dependencies": [
+      "apitree"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/finetuning.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/tool_use.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/lora_finetuning.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/overview.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/lora_sampling.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/sharding.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/tokenizer.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/images/icon.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/npo.py",
+    "dependencies": [
+      "kd",
+      "gm",
+      "gemma",
+      "optax",
+      "kauldron",
+      "konfig",
+      "tensorflow_datasets"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/lora.py",
+    "dependencies": [
+      "kd",
+      "gm",
+      "gemma",
+      "kauldron",
+      "optax",
+      "konfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/seq2seq.py",
+    "dependencies": [
+      "kd",
+      "gm",
+      "gemma",
+      "kauldron",
+      "optax",
+      "konfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/dpo.py",
+    "dependencies": [
+      "kd",
+      "gm",
+      "gemma",
+      "kauldron",
+      "optax",
+      "konfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/classification.py",
+    "dependencies": [
+      "kd",
+      "gm",
+      "gemma",
+      "kauldron",
+      "optax",
+      "konfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/multimodal.py",
+    "dependencies": [
+      "kd",
+      "gm",
+      "gemma",
+      "optax",
+      "kauldron",
+      "konfig",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/sharding.py",
+    "dependencies": [
+      "kd",
+      "gm",
+      "gemma",
+      "kauldron",
+      "optax",
+      "konfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".vscode/settings.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".vscode/extensions.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/__init__.py",
+    "dependencies": [
+      "gemma",
+      "gm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/__init__.py",
+    "dependencies": [
+      "gemma.gm",
+      "typing",
+      "peft",
+      "testing",
+      "losses",
+      "gemma",
+      "nn",
+      "tools",
+      "epy",
+      "math",
+      "ckpts",
+      "text",
+      "evals",
+      "sharding",
+      "data",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/vision/_preprocess.py",
+    "dependencies": [
+      "kauldron.ktyping",
+      "Float",
+      "einops",
+      "jax",
+      "numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/vision/_token_utils_test.py",
+    "dependencies": [
+      "gemma.gm.vision",
+      "_token_utils",
+      "jax.numpy",
+      "numpy",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/vision/_token_utils.py",
+    "dependencies": [
+      "Bool",
+      "_tokenizer",
+      "kauldron.ktyping",
+      "gemma.gm.text",
+      "einops",
+      "jax",
+      "jax.numpy",
+      "numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/testing/__init__.py",
+    "dependencies": [
+      "DummyGemma",
+      "DummyTokenizer",
+      "epy",
+      "gemma.gm.testing._fixtures",
+      "use_hermetic_tokenizer",
+      "gemma.gm.testing._dummy_model",
+      "gemma.gm.testing._dummy_tokenizer",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/testing/_dummy_tokenizer.py",
+    "dependencies": [
+      "typing",
+      "_tokenizer",
+      "annotations",
+      "Iterable",
+      "functools",
+      "epath",
+      "gemma.gm.text",
+      "collections.abc",
+      "etils",
+      "dataclasses",
+      "sentencepiece",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/testing/_dummy_model.py",
+    "dependencies": [
+      "config",
+      "gemma.gm.nn",
+      "_transformer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/testing/_fixtures.py",
+    "dependencies": [
+      "contextlib",
+      "_tokenizer",
+      "from",
+      "mock",
+      "gemma.gm.text",
+      "unittest",
+      "pytest",
+      "epath",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/math/__init__.py",
+    "dependencies": [
+      "count_consecutive",
+      "gemma.gm.math._misc",
+      "apply_rope",
+      "gemma.gm.math._positional_embeddings"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/math/_misc.py",
+    "dependencies": [
+      "Array",
+      "numpy",
+      "kauldron.ktyping",
+      "itertools"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/math/_misc_test.py",
+    "dependencies": [
+      "numpy",
+      "pytest",
+      "gemma.gm.math",
+      "_misc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "success"
+  },
+  {
+    "file": "gemma/gm/math/_positional_embeddings_test.py",
+    "dependencies": [
+      "gm",
+      "gemma",
+      "jax.numpy",
+      "numpy",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/math/_positional_embeddings.py",
+    "dependencies": [
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/math/_pos_utils.py",
+    "dependencies": [
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/tools/__init__.py",
+    "dependencies": [
+      "gemma.gm.tools._mcp_manager",
+      "McpToolHandler",
+      "gemma.gm.tools._manager",
+      "ToolHandlerBase"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/tools/_mcp_manager.py",
+    "dependencies": [
+      "mcp",
+      "typing",
+      "contextlib",
+      "annotations",
+      "fastmcp",
+      "functools",
+      "gemma.gm.tools",
+      "epy",
+      "Any",
+      "_manager",
+      "asyncio",
+      "etils",
+      "dataclasses",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/tools/_file_explorer.py",
+    "dependencies": [
+      "typing",
+      "Annotated",
+      "annotations",
+      "epy",
+      "pydantic",
+      "etils",
+      "epath",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/tools/_manager.py",
+    "dependencies": [
+      "Iterator",
+      "mcp",
+      "typing",
+      "contextlib",
+      "dataclasses",
+      "annotations",
+      "functools",
+      "epy",
+      "Any",
+      "dialog",
+      "etils",
+      "abc",
+      "collections.abc",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/ckpts/_lora.py",
+    "dependencies": [
+      "kd",
+      "typing",
+      "peft",
+      "annotations",
+      "on",
+      "gemma",
+      "Any",
+      "kauldron",
+      "dataclasses",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/ckpts/__init__.py",
+    "dependencies": [
+      "save_params",
+      "LoadCheckpoint",
+      "load_params",
+      "SkipLoRA",
+      "gemma.gm.ckpts._checkpoint",
+      "gemma.gm.ckpts._policy",
+      "gemma.gm.ckpts._lora",
+      "CheckpointPath",
+      "AnchoredPolicyLoader",
+      "gemma.gm.ckpts._paths"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/ckpts/_policy.py",
+    "dependencies": [
+      "kd",
+      "gemma.gm.ckpts",
+      "kauldron",
+      "_checkpoint",
+      "jax",
+      "jax.numpy",
+      "dataclasses"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/ckpts/_quantization.py",
+    "dependencies": [
+      "typing",
+      "annotations",
+      "Any",
+      "gemma.gm.typing",
+      "jax",
+      "_common",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/ckpts/_paths.py",
+    "dependencies": [
+      "enum"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/ckpts/_compat.py",
+    "dependencies": [
+      "typing",
+      "re",
+      "flax",
+      "annotations",
+      "__future__",
+      "Any",
+      "collections",
+      "jax",
+      "gemma.gm.typing._common",
+      "jax.numpy",
+      "Params"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/ckpts/_checkpoint.py",
+    "dependencies": [
+      "annotations",
+      "_compat",
+      "functools",
+      "sys",
+      "_quantization",
+      "dataclasses",
+      "flax",
+      "gemma.gm.ckpts",
+      "enum",
+      "gemma.gm.typing._common",
+      "etils.etree",
+      "Params",
+      "Any",
+      "orbax",
+      "epath",
+      "__future__",
+      "kd",
+      "typing",
+      "etils",
+      "checkpoint",
+      "on",
+      "operator",
+      "kauldron",
+      "jax",
+      "numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/evals/__init__.py",
+    "dependencies": [
+      "gemma.gm.evals._sample",
+      "SamplerEvaluator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/evals/_sample.py",
+    "dependencies": [
+      "annotations",
+      "kauldron.utils",
+      "functools",
+      "dataclasses",
+      "collections.abc",
+      "flax",
+      "gemma.gm.data",
+      "immutabledict",
+      "Any",
+      "utils",
+      "__future__",
+      "kd",
+      "typing",
+      "etils",
+      "epy",
+      "gemma.gm.text",
+      "kauldron",
+      "config_util",
+      "_tasks",
+      "jax",
+      "_sampler",
+      "linen",
+      "Mapping"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/losses/__init__.py",
+    "dependencies": [
+      "gemma.gm.losses._npo",
+      "DpoLoss",
+      "NpoLoss",
+      "gemma.gm.losses._dpo"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/losses/_npo.py",
+    "dependencies": [
+      "kd",
+      "Bool",
+      "kauldron.ktyping",
+      "Schedule",
+      "kauldron",
+      "jax",
+      "kontext",
+      "jax.numpy",
+      "dataclasses",
+      "kauldron.typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/losses/_dpo.py",
+    "dependencies": [
+      "kd",
+      "Bool",
+      "kauldron.ktyping",
+      "Schedule",
+      "kauldron",
+      "jax",
+      "kontext",
+      "jax.numpy",
+      "dataclasses",
+      "kauldron.typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/sharding/__init__.py",
+    "dependencies": [
+      "epy",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_lora.py",
+    "dependencies": [
+      "peft",
+      "typing",
+      "gemma.gm.nn",
+      "logging",
+      "flax",
+      "gemma",
+      "functools",
+      "Any",
+      "kauldron",
+      "absl",
+      "jax",
+      "kontext",
+      "jax.numpy",
+      "_layers",
+      "numpy",
+      "dataclasses",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/__init__.py",
+    "dependencies": [
+      "AnchoredPolicy",
+      "RMSNorm",
+      "gemma.gm.nn",
+      "Gemma3n_E4B",
+      "Gemma4_26B_A4B",
+      "Gemma3_12B",
+      "gemma.gm.nn._modules",
+      "gemma.gm.nn._transformer",
+      "Gemma2_27B",
+      "Gemma4_E2B",
+      "AttentionType",
+      "Gemma2_9B",
+      "Gemma3_27B",
+      "gemma.gm.nn._lora",
+      "Gemma3_4B",
+      "AnchoredPolicyOutput",
+      "Transformer",
+      "gemma.gm.nn._gemma",
+      "SigLiPFromPatches",
+      "Output",
+      "gemma.gm.nn.gemma4._gemma4",
+      "Embedder",
+      "gemma.gm.nn._transformer_like",
+      "Gemma4_31B",
+      "config",
+      "Cache",
+      "FeedForward",
+      "Einsum",
+      "Gemma4_E4B",
+      "Attention",
+      "gemma.gm.nn._layers",
+      "gemma.gm.nn._config",
+      "gemma.gm.nn.vision._vision",
+      "gemma.gm.nn._quantization",
+      "TransformerLike",
+      "Gemma3n_E2B",
+      "etils",
+      "Block",
+      "IntWrapper",
+      "gemma.gm.nn._policy",
+      "epy",
+      "Gemma2_2B",
+      "gemma.gm.nn.gemma3n._gemma3n",
+      "QuantizationAwareWrapper",
+      "LoRA",
+      "Gemma3_270M",
+      "Gemma3_1B"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "success"
+  },
+  {
+    "file": "gemma/gm/nn/_transformer_like_test.py",
+    "dependencies": [
+      "typing",
+      "gemma.gm.nn",
+      "flax",
+      "gm",
+      "gemma",
+      "absltest",
+      "Any",
+      "parameterized",
+      "absl.testing",
+      "jax",
+      "jax.numpy",
+      "_transformer",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_modules.py",
+    "dependencies": [
+      "_positional_embeddings",
+      "kd",
+      "Bool",
+      "gemma.gm.nn",
+      "flax",
+      "enum",
+      "kauldron.ktyping",
+      "gemma.gm.math",
+      "kauldron",
+      "jax",
+      "jax.numpy",
+      "_layers",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_gemma.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "annotations",
+      "gemma.gm.ckpts",
+      "_transformer",
+      "_config",
+      "_paths",
+      "gemma.gm.nn.vision",
+      "_modules",
+      "_vision",
+      "dataclasses",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_layers.py",
+    "dependencies": [
+      "flax",
+      "jax",
+      "linen",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_transformer.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "annotations",
+      "functools",
+      "_dtype_params",
+      "_config",
+      "einops",
+      "dataclasses",
+      "flax",
+      "gemma.gm.utils",
+      "_types",
+      "gemma.gm.nn.vision",
+      "kauldron.ktyping",
+      "Any",
+      "_token_utils",
+      "kontext",
+      "_layers",
+      "__future__",
+      "kd",
+      "typing",
+      "Bool",
+      "gemma.gm.vision",
+      "_jax_utils",
+      "kauldron",
+      "jax.numpy",
+      "_modules",
+      "_vision",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_config.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "_tokenizer",
+      "functools",
+      "enum",
+      "jax.numpy",
+      "gemma.gm.text",
+      "Sequence",
+      "gemma.gm.utils",
+      "gemma.gm.nn.vision",
+      "_types",
+      "_modules",
+      "_vision",
+      "dataclasses",
+      "collections.abc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_modules_test.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "gm",
+      "gemma",
+      "jax",
+      "jax.numpy",
+      "_modules",
+      "pytest",
+      "logging",
+      "numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_policy.py",
+    "dependencies": [
+      "typing",
+      "flax",
+      "Any",
+      "kauldron",
+      "jax",
+      "kontext",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_quantization.py",
+    "dependencies": [
+      "peft",
+      "numpy",
+      "typing",
+      "gemma.gm.nn",
+      "gemma.peft",
+      "flax",
+      "gemma",
+      "dtypes",
+      "functools",
+      "Any",
+      "kauldron",
+      "flax.linen",
+      "jax",
+      "kontext",
+      "_layers",
+      "_quantization",
+      "dataclasses",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_transformer_test.py",
+    "dependencies": [
+      "typing",
+      "gm",
+      "gemma",
+      "Any",
+      "jax",
+      "jax.numpy",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_layers_test.py",
+    "dependencies": [
+      "gm",
+      "gemma",
+      "jax",
+      "jax.numpy",
+      "numpy",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/config.py",
+    "dependencies": [
+      "make_attention_layers_types",
+      "gemma.gm.nn._gemma",
+      "TransformerConfig",
+      "QueryPreAttentionNormalisation",
+      "epy",
+      "GEMMA3_ATTENTION_PATTERN",
+      "ModelInfo",
+      "gemma.gm.nn._config",
+      "gemma.gm.nn._modules",
+      "gemma.gm.nn._transformer",
+      "AttentionType",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_experimental.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "_transformer",
+      "_gemma",
+      "_config"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/_transformer_like.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "_config",
+      "CollectionFilter",
+      "flax.typing",
+      "collections.abc",
+      "flax",
+      "gemma.gm.utils",
+      "_types",
+      "flax.core.scope",
+      "kauldron.ktyping",
+      "Any",
+      "Callable",
+      "FrozenVariableDict",
+      "kd",
+      "typing",
+      "Bool",
+      "kauldron",
+      "jax.numpy",
+      "abc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/vision/_image.py",
+    "dependencies": [
+      "typing",
+      "tensorflow",
+      "annotations",
+      "kauldron",
+      "einops",
+      "Sequence",
+      "jax",
+      "PIL",
+      "numpy",
+      "etils",
+      "epath",
+      "collections.abc",
+      "Image",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/vision/_vision_utils.py",
+    "dependencies": [
+      "typing",
+      "annotations",
+      "flax",
+      "kauldron",
+      "collections.abc",
+      "Sequence",
+      "jax",
+      "numpy",
+      "linen",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/vision/_vision.py",
+    "dependencies": [
+      "annotations",
+      "functools",
+      "einops",
+      "dataclasses",
+      "flax",
+      "cast",
+      "gemma.gm.nn.vision",
+      "_preprocess",
+      "kauldron.ktyping",
+      "etils",
+      "__future__",
+      "typing",
+      "Bool",
+      "gemma.gm.vision",
+      "epy",
+      "jax",
+      "_vision_utils",
+      "numpy",
+      "chex",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma3n/_gemma3n.py",
+    "dependencies": [
+      "annotations",
+      "_transformer",
+      "gemma.gm.nn.gemma3n",
+      "_config",
+      "gemma.gm.nn.vision",
+      "_modules",
+      "_vision",
+      "dataclasses",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma3n/__init__.py",
+    "dependencies": [
+      "Gemma3n_E2B",
+      "Gemma3n_E4B",
+      "epy",
+      "gemma.gm.nn.gemma3n._gemma3n",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma3n/_modules.py",
+    "dependencies": [
+      "_positional_embeddings",
+      "typing",
+      "gemma.gm.nn",
+      "flax",
+      "enum",
+      "gemma.gm.math",
+      "jax",
+      "List",
+      "jax.numpy",
+      "_layers",
+      "_modules",
+      "linen",
+      "gemma.gm.nn.gemma3n"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma3n/_layers.py",
+    "dependencies": [
+      "flax",
+      "jax",
+      "linen",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma3n/_transformer.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "annotations",
+      "functools",
+      "_dtype_params",
+      "_config",
+      "einops",
+      "dataclasses",
+      "flax",
+      "gemma.gm.utils",
+      "_types",
+      "gemma.gm.nn.vision",
+      "_transformer",
+      "gemma.gm.nn.gemma3n",
+      "kauldron.ktyping",
+      "Any",
+      "_token_utils",
+      "kontext",
+      "_layers",
+      "_pos_utils",
+      "__future__",
+      "kd",
+      "typing",
+      "Bool",
+      "gemma.gm.vision",
+      "_jax_utils",
+      "gemma.gm.math",
+      "kauldron",
+      "jax.numpy",
+      "_modules",
+      "_vision",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma3n/_config.py",
+    "dependencies": [
+      "_tokenizer",
+      "functools",
+      "enum",
+      "jax.numpy",
+      "gemma.gm.text",
+      "Sequence",
+      "gemma.gm.utils",
+      "gemma.gm.nn.vision",
+      "_types",
+      "_modules",
+      "_vision",
+      "dataclasses",
+      "collections.abc",
+      "gemma.gm.nn.gemma3n"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma3n/_modules_test.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "_config",
+      "jax",
+      "jax.numpy",
+      "_modules",
+      "pytest",
+      "logging",
+      "numpy",
+      "gemma.gm.nn.gemma3n"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma3n/README.md",
+    "dependencies": [
+      "gm",
+      "gemma"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma3n/_transformer_test.py",
+    "dependencies": [
+      "typing",
+      "Any",
+      "jax",
+      "jax.numpy",
+      "pytest",
+      "_transformer",
+      "_gemma3n",
+      "gemma.gm.nn.gemma3n"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma3n/_layers_test.py",
+    "dependencies": [
+      "flax",
+      "jax",
+      "jax.numpy",
+      "_layers",
+      "numpy",
+      "pytest",
+      "linen",
+      "gemma.gm.nn.gemma3n"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/_modules.py",
+    "dependencies": [
+      "_positional_embeddings",
+      "kd",
+      "Bool",
+      "flax",
+      "enum",
+      "kauldron.ktyping",
+      "gemma.gm.math",
+      "kauldron",
+      "jax",
+      "_moe",
+      "gemma.gm.nn.gemma4",
+      "jax.numpy",
+      "_layers",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/_gemma4.py",
+    "dependencies": [
+      "annotations",
+      "gemma.gm.nn.gemma4.vision",
+      "_transformer",
+      "_encoder",
+      "_config",
+      "gemma.gm.nn.gemma4.audio",
+      "gemma.gm.nn.gemma4",
+      "_modules",
+      "dataclasses",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/_layers.py",
+    "dependencies": [
+      "flax",
+      "jax",
+      "linen",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/_transformer.py",
+    "dependencies": [
+      "annotations",
+      "gemma.gm.nn.gemma4.vision",
+      "functools",
+      "_encoder",
+      "_dtype_params",
+      "_config",
+      "dataclasses",
+      "_model",
+      "flax",
+      "gemma.gm.nn.gemma4.audio",
+      "gemma.gm.utils",
+      "_types",
+      "kauldron.ktyping",
+      "Any",
+      "_token_utils",
+      "kontext",
+      "gemma.gm.nn.gemma4",
+      "_layers",
+      "_pos_utils",
+      "__future__",
+      "kd",
+      "typing",
+      "Bool",
+      "gemma.gm.vision",
+      "_jax_utils",
+      "_attention_mask",
+      "gemma.gm.math",
+      "kauldron",
+      "jax",
+      "jax.numpy",
+      "_modules",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/_config.py",
+    "dependencies": [
+      "_tokenizer",
+      "gemma.gm.nn.gemma4.vision",
+      "functools",
+      "_encoder",
+      "jax.numpy",
+      "gemma.gm.text",
+      "gemma.gm.nn.gemma4.audio",
+      "Sequence",
+      "gemma.gm.utils",
+      "gemma.gm.nn.gemma4",
+      "_types",
+      "_modules",
+      "dataclasses",
+      "collections.abc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/README.md",
+    "dependencies": [
+      "gm",
+      "gemma"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/_transformer_test.py",
+    "dependencies": [
+      "typing",
+      "Any",
+      "_gemma4",
+      "jax",
+      "gemma.gm.nn.gemma4",
+      "jax.numpy",
+      "pytest",
+      "_transformer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/_moe.py",
+    "dependencies": [
+      "flax",
+      "jax",
+      "gemma.gm.nn.gemma4",
+      "jax.numpy",
+      "_layers",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_norms.py",
+    "dependencies": [
+      "flax",
+      "jax",
+      "linen",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_modules.py",
+    "dependencies": [
+      "_positional_embeddings",
+      "kd",
+      "RMSNorm",
+      "typing",
+      "flax",
+      "Optional",
+      "Einsum",
+      "_norms",
+      "gemma.gm.nn.gemma4.vision",
+      "gemma.gm.math",
+      "kauldron",
+      "jax",
+      "linen",
+      "jax.numpy",
+      "ClippedEinsum",
+      "gemma.gm.nn.gemma4._layers"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_layers.py",
+    "dependencies": [
+      "_images",
+      "Bool",
+      "typing",
+      "flax",
+      "Einsum",
+      "gemma.gm.nn.gemma4.vision",
+      "kauldron.ktyping",
+      "cast",
+      "_utils",
+      "jax",
+      "jax.numpy",
+      "linen",
+      "gemma.gm.nn.gemma4._layers"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_transformer.py",
+    "dependencies": [
+      "Bool",
+      "gemma.gm.nn.gemma4.vision",
+      "flax",
+      "kauldron.ktyping",
+      "_modules",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_encoder.py",
+    "dependencies": [
+      "_images",
+      "Bool",
+      "flax",
+      "gemma.gm.nn.gemma4.vision",
+      "kauldron.ktyping",
+      "jax.numpy",
+      "_layers",
+      "_transformer",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_images_test.py",
+    "dependencies": [
+      "_images",
+      "gemma.gm.nn.gemma4.vision",
+      "numpy",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_utils.py",
+    "dependencies": [
+      "Bool",
+      "kauldron.ktyping",
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_images.py",
+    "dependencies": [
+      "_preprocessing",
+      "gemma.gm.nn.gemma4.vision",
+      "kauldron.ktyping",
+      "Float",
+      "einops",
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_preprocessing.py",
+    "dependencies": [
+      "gemma.gm.nn.gemma4.vision",
+      "_encoder",
+      "math",
+      "jax.numpy",
+      "numpy",
+      "Image",
+      "PIL"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_utils_test.py",
+    "dependencies": [
+      "gemma.gm.nn.gemma4.vision",
+      "_utils",
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/vision/_vision_transformer_test.py",
+    "dependencies": [
+      "gemma.gm.nn.gemma4.vision",
+      "_transformer",
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/audio/_modules.py",
+    "dependencies": [
+      "typing",
+      "Bool",
+      "Optional",
+      "kauldron",
+      "flax.linen",
+      "jax",
+      "gemma.gm.nn.gemma4",
+      "jax.numpy",
+      "_layers",
+      "numpy",
+      "dataclasses",
+      "kauldron.typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/audio/_model.py",
+    "dependencies": [
+      "typing",
+      "Array",
+      "kauldron",
+      "flax.linen",
+      "gemma.gm.nn.gemma4.audio",
+      "jax.numpy",
+      "_modules",
+      "kauldron.typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/nn/gemma4/audio/_model_test.py",
+    "dependencies": [
+      "_model",
+      "gemma.gm.nn.gemma4.audio",
+      "jax",
+      "jax.numpy",
+      "_modules"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/__init__.py",
+    "dependencies": [
+      "Greedy",
+      "gemma.gm.text._tool_sampler",
+      "gemma.gm.text._tokenizer",
+      "TopkSampling",
+      "ToolSampler",
+      "gemma.gm.text._sampler",
+      "Gemma3Tokenizer",
+      "SpecialTokens",
+      "Tokenizer",
+      "gemma.gm.text._chat_sampler",
+      "Gemma2Tokenizer",
+      "gemma.gm.text._gemma4_sampler",
+      "ChatSampler",
+      "Gemma4Tokenizer",
+      "SamplingMethod",
+      "Gemma4Sampler",
+      "Sampler",
+      "gemma.gm.text._sampling",
+      "_template",
+      "etils",
+      "RandomSampling",
+      "Gemma3nTokenizer",
+      "epy",
+      "gemma.gm.text",
+      "TopPSampling"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_turn_utils.py",
+    "dependencies": [
+      "Bool",
+      "gemma.gm.data",
+      "gemma.gm.nn",
+      "flax",
+      "kauldron.ktyping",
+      "_config",
+      "gemma.gm.text",
+      "jax.numpy",
+      "_sampler_loop",
+      "_functional"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_sampler_loop.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "annotations",
+      "functools",
+      "_config",
+      "einops",
+      "gemma.gm.typing",
+      "dataclasses",
+      "collections.abc",
+      "_tokenizer",
+      "flax",
+      "_cache_helper",
+      "gemma.gm.utils",
+      "Iterator",
+      "kauldron.ktyping",
+      "_common",
+      "__future__",
+      "_transformer_like",
+      "Bool",
+      "gemma.gm.text",
+      "jax",
+      "jax.numpy",
+      "_sampling"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_sampling.py",
+    "dependencies": [
+      "dataclasses",
+      "kauldron.ktyping",
+      "Float",
+      "jax",
+      "jax.numpy",
+      "enp",
+      "abc",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_gemma4_sampler.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "annotations",
+      "gemma.gm.nn.gemma4.vision",
+      "functools",
+      "gemma.gm.typing",
+      "dataclasses",
+      "collections.abc",
+      "PIL",
+      "_preprocessing",
+      "_tokenizer",
+      "gemma.gm.utils",
+      "_types",
+      "_transformer",
+      "_functional",
+      "gemma.gm.data",
+      "PRNGKeyLike",
+      "_token_utils",
+      "gemma.gm.nn.gemma4",
+      "_common",
+      "Image",
+      "__future__",
+      "_transformer_like",
+      "kd",
+      "_prefill",
+      "gemma.gm.vision",
+      "gemma.gm.text",
+      "kauldron",
+      "Sequence",
+      "jax",
+      "_sampler",
+      "jax.numpy",
+      "numpy",
+      "_sampler_loop",
+      "kauldron.typing",
+      "_sampling"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_prefill.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "annotations",
+      "_config",
+      "gemma.gm.typing",
+      "dataclasses",
+      "_cache_helper",
+      "gemma.gm.utils",
+      "_types",
+      "_functional",
+      "gemma.gm.data",
+      "_turn_utils",
+      "kauldron.ktyping",
+      "_common",
+      "__future__",
+      "_transformer_like",
+      "kd",
+      "Bool",
+      "gemma.gm.text",
+      "kauldron",
+      "jax",
+      "numpy",
+      "_sampler_loop"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_sampling_test.py",
+    "dependencies": [
+      "gm",
+      "numpy",
+      "gemma",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_tokenizer.py",
+    "dependencies": [
+      "annotations",
+      "kauldron.utils",
+      "functools",
+      "einops",
+      "dataclasses",
+      "plotly",
+      "plotly.express",
+      "enum",
+      "gemma.gm.utils",
+      "enp",
+      "sentencepiece_model_pb2",
+      "sentencepiece",
+      "immutabledict",
+      "dialog",
+      "_file_cache",
+      "graph_objects",
+      "epath",
+      "__future__",
+      "etils",
+      "typing",
+      "epy",
+      "ClassVar",
+      "jax",
+      "jax.numpy",
+      "numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_chat_sampler.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "functools",
+      "gemma.gm.typing",
+      "UInt8",
+      "dataclasses",
+      "collections.abc",
+      "PIL",
+      "_tokenizer",
+      "_functional",
+      "Iterator",
+      "_gemma4_sampler",
+      "gemma.gm.data",
+      "PRNGKeyLike",
+      "kauldron.ktyping",
+      "_token_utils",
+      "_template",
+      "_common",
+      "dialog",
+      "Image",
+      "_sampler_loop",
+      "_transformer_like",
+      "kd",
+      "etils",
+      "gemma.gm.vision",
+      "epy",
+      "gemma.gm.text",
+      "kauldron",
+      "_sampler",
+      "numpy",
+      "warnings",
+      "kauldron.typing",
+      "_sampling"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_sampler.py",
+    "dependencies": [
+      "gemma.gm.nn",
+      "functools",
+      "gemma.gm.typing",
+      "dataclasses",
+      "collections.abc",
+      "_tokenizer",
+      "Array",
+      "gemma.gm.utils",
+      "_types",
+      "enp",
+      "_functional",
+      "Iterator",
+      "gemma.gm.data",
+      "PRNGKeyLike",
+      "kauldron.ktyping",
+      "_common",
+      "dialog",
+      "Literal",
+      "etils",
+      "_transformer_like",
+      "typing",
+      "kd",
+      "random",
+      "_prefill",
+      "gemma.gm.text",
+      "kauldron",
+      "jax",
+      "jax.numpy",
+      "numpy",
+      "_sampler_loop",
+      "kauldron.typing",
+      "_sampling"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_prefill_test.py",
+    "dependencies": [
+      "gm",
+      "_prefill",
+      "gemma",
+      "_turn_utils",
+      "jax.numpy",
+      "gemma.gm.text",
+      "gemma.gm.utils",
+      "jax",
+      "_types",
+      "numpy",
+      "dataclasses",
+      "_sampler_loop"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_tokenizer_test.py",
+    "dependencies": [
+      "gm",
+      "gemma",
+      "pickle"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_tool_sampler.py",
+    "dependencies": [
+      "kd",
+      "_chat_sampler",
+      "__future__",
+      "annotations",
+      "PRNGKeyLike",
+      "gemma.gm.tools",
+      "kauldron.ktyping",
+      "_manager",
+      "gemma.gm.text",
+      "UInt8",
+      "kauldron",
+      "PIL",
+      "dialog",
+      "numpy",
+      "dataclasses",
+      "kauldron.typing",
+      "Image",
+      "_sampling"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_sampler_test.py",
+    "dependencies": [
+      "gm",
+      "gemma",
+      "mock",
+      "gemma.gm.text",
+      "jax",
+      "_sampler",
+      "jax.numpy",
+      "numpy",
+      "_sampler_loop",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/text/_template.py",
+    "dependencies": [
+      "UInt8",
+      "dataclasses",
+      "textwrap",
+      "kauldron.ktyping"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/data/_tasks.py",
+    "dependencies": [
+      "kd",
+      "gemma.gm.data",
+      "_tokenizer",
+      "annotations",
+      "__future__",
+      "gemma.gm.text",
+      "kauldron",
+      "einops",
+      "python",
+      "grain",
+      "jax",
+      "_template",
+      "numpy",
+      "dataclasses",
+      "etils.etree",
+      "_functional"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/data/_transforms.py",
+    "dependencies": [
+      "kd",
+      "gemma.gm.data",
+      "_tokenizer",
+      "annotations",
+      "__future__",
+      "Array",
+      "textwrap",
+      "kauldron.ktyping",
+      "gemma.gm.text",
+      "kauldron",
+      "python",
+      "grain",
+      "dataclasses",
+      "_functional"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/data/__init__.py",
+    "dependencies": [
+      "Seq2SeqTask",
+      "DecodeBytes",
+      "gemma.gm.data._transforms",
+      "Tokenize",
+      "pad",
+      "MapInts",
+      "Pad",
+      "ContrastiveTask",
+      "make_seq2seq_fields",
+      "gemma.gm.data._parquet",
+      "epy",
+      "Parquet",
+      "AddSeq2SeqFields",
+      "gemma.gm.data._functional",
+      "FormatText",
+      "gemma.gm.data._tasks",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/data/_transforms_test.py",
+    "dependencies": [
+      "gm",
+      "numpy",
+      "gemma"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/data/_functional_test.py",
+    "dependencies": [
+      "gm",
+      "numpy",
+      "pytest",
+      "gemma"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/data/_parquet.py",
+    "dependencies": [
+      "kd",
+      "typing",
+      "dataclasses",
+      "pyarrow.parquet",
+      "annotations",
+      "functools",
+      "epy",
+      "Any",
+      "kauldron",
+      "python",
+      "grain",
+      "etils",
+      "epath",
+      "pyarrow",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/data/_functional.py",
+    "dependencies": [
+      "flax",
+      "Array",
+      "kauldron.ktyping",
+      "jax",
+      "numpy",
+      "enp",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/tests/sampler_e2e_test.py",
+    "dependencies": [
+      "gm",
+      "gemma",
+      "epy",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/tests/examples_test.py",
+    "dependencies": [
+      "seq2seq",
+      "gm",
+      "gemma",
+      "kauldron",
+      "gemma.examples",
+      "konfig",
+      "tensorflow_datasets"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_file_cache.py",
+    "dependencies": [
+      "os",
+      "epath",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_attention_mask.py",
+    "dependencies": [
+      "Bool",
+      "annotations",
+      "kauldron.ktyping",
+      "jax.numpy",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_file_cache_test.py",
+    "dependencies": [
+      "os",
+      "gemma.gm.utils",
+      "_file_cache",
+      "pytest",
+      "epath",
+      "pathlib",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_types.py",
+    "dependencies": [
+      "annotations",
+      "functools",
+      "dataclasses",
+      "_tokenizer",
+      "flax",
+      "gemma.gm.utils",
+      "_functional",
+      "gemma.gm.data",
+      "kauldron.ktyping",
+      "_token_utils",
+      "_pos_utils",
+      "__future__",
+      "Bool",
+      "gemma.gm.vision",
+      "_attention_mask",
+      "gemma.gm.math",
+      "gemma.gm.text",
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_jax_utils.py",
+    "dependencies": [
+      "typing",
+      "types",
+      "jaxtyping",
+      "array_type_meta",
+      "__future__",
+      "annotations",
+      "functools",
+      "kauldron.ktyping",
+      "epy",
+      "Any",
+      "kauldron",
+      "math",
+      "jax",
+      "kontext",
+      "etils",
+      "inspect"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_cache_helper_test.py",
+    "dependencies": [
+      "gm",
+      "_prefill",
+      "gemma",
+      "_turn_utils",
+      "jax.numpy",
+      "gemma.gm.text",
+      "_cache_helper",
+      "jax",
+      "gemma.gm.utils",
+      "_types",
+      "numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_dtype_params.py",
+    "dependencies": [
+      "Iterator",
+      "contextlib",
+      "_internal",
+      "flax",
+      "functools",
+      "collections.abc",
+      "edc",
+      "jax",
+      "etils.epy",
+      "dataclasses",
+      "linen",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_cache_helper.py",
+    "dependencies": [
+      "Bool",
+      "gemma.gm.nn",
+      "_Slice",
+      "flax",
+      "annotations",
+      "kauldron.ktyping",
+      "epy",
+      "_config",
+      "jax.numpy",
+      "etils",
+      "dataclasses",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_types_test.py",
+    "dependencies": [
+      "gm",
+      "gemma",
+      "gemma.gm.utils",
+      "_types",
+      "jax.numpy",
+      "numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_jax_utils_test.py",
+    "dependencies": [
+      "kd",
+      "typing",
+      "Optional",
+      "_jax_utils",
+      "kauldron",
+      "gemma.gm.utils",
+      "jax.numpy",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_py.py",
+    "dependencies": [
+      "dataclasses"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/utils/_attention_mask_test.py",
+    "dependencies": [
+      "numpy",
+      "gemma.gm.utils",
+      "_attention_mask",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/typing/__init__.py",
+    "dependencies": [
+      "gemma.gm.typing._common",
+      "Params"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/gm/typing/_common.py",
+    "dependencies": [
+      "typing",
+      "collections.abc",
+      "Any",
+      "Mapping"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/research/t5gemma/__init__.py",
+    "dependencies": [
+      "RandomSampling",
+      "T5Gemma",
+      "CKPTType",
+      "Greedy",
+      "gemma.research.t5gemma.t5gemma",
+      "TopkSampling",
+      "gemma.research.t5gemma.sampling",
+      "epy",
+      "T5GemmaPreset",
+      "Sampler",
+      "gemma.research.t5gemma.config",
+      "PretrainType",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/research/t5gemma/t5gemma.py",
+    "dependencies": [
+      "typing",
+      "gemma.research.t5gemma",
+      "flax",
+      "Array",
+      "kauldron.ktyping",
+      "Any",
+      "kauldron",
+      "modules",
+      "kontext",
+      "jax.numpy",
+      "dataclasses",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/research/t5gemma/README.md",
+    "dependencies": [
+      "gemma.gm",
+      "kagglehub",
+      "gemma.research",
+      "t5gemma",
+      "ckpts"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/research/t5gemma/sampling.py",
+    "dependencies": [
+      "gemma.research.t5gemma",
+      "functools",
+      "einops",
+      "t5gemma",
+      "dataclasses",
+      "flax",
+      "Array",
+      "kauldron.typing",
+      "PRNGKeyLike",
+      "kauldron.ktyping",
+      "Any",
+      "text",
+      "etils",
+      "kd",
+      "typing",
+      "gemma.gm",
+      "random",
+      "epy",
+      "kauldron",
+      "jax",
+      "jax.numpy",
+      "numpy",
+      "logging",
+      "data"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/research/t5gemma/config.py",
+    "dependencies": [
+      "gemma.gm",
+      "gemma.research.t5gemma",
+      "kagglehub",
+      "enum",
+      "modules",
+      "t5gemma",
+      "text",
+      "dataclasses"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/research/t5gemma/modules.py",
+    "dependencies": [
+      "config",
+      "typing",
+      "gemma.gm",
+      "gemma.gm.nn",
+      "flax",
+      "Array",
+      "nn",
+      "_dtype_params",
+      "kauldron.ktyping",
+      "Any",
+      "math",
+      "gemma.gm.utils",
+      "jax",
+      "jax.numpy",
+      "dataclasses",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_lora.py",
+    "dependencies": [
+      "flax.typing",
+      "_einsum_utils",
+      "gemma.peft",
+      "flax",
+      "Array",
+      "collections.abc",
+      "Sequence",
+      "jax",
+      "jax.numpy",
+      "numpy",
+      "dataclasses",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/__init__.py",
+    "dependencies": [
+      "SimulateQuantizedEinsum",
+      "LoRADenseAdapter",
+      "gemma.peft._lora",
+      "gemma.peft._quantization_utils",
+      "LoRAEinsumAdapter",
+      "IntDense",
+      "QuantizationMethod",
+      "unfuse_params",
+      "gemma.peft._quantization",
+      "Interceptor",
+      "gemma.peft._tree_utils",
+      "IntEinsum",
+      "split_params",
+      "gemma.peft._interceptors",
+      "LoRADenseGeneralAdapter",
+      "get_axis_to_reduce_from_einsum_str",
+      "merge_params",
+      "ModuleInterceptor",
+      "SimulateQuantizedDense",
+      "simulate_quantize",
+      "LoRADenseGeneral",
+      "LoRAEinsum",
+      "LoRADense",
+      "fuse_params",
+      "quantize"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_quantization_utils.py",
+    "dependencies": [
+      "typing",
+      "flax.typing",
+      "Array",
+      "enum",
+      "epy",
+      "Any",
+      "Sequence",
+      "jax",
+      "numpy",
+      "collections.abc",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_interceptors_test.py",
+    "dependencies": [
+      "peft",
+      "typing",
+      "flax",
+      "gemma",
+      "Any",
+      "jax",
+      "jax.numpy",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_einsum_utils_test.py",
+    "dependencies": [
+      "pytest",
+      "_einsum_utils",
+      "gemma.peft"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_lora_test.py",
+    "dependencies": [
+      "peft",
+      "flax",
+      "gemma",
+      "etils.enp.typing",
+      "f32",
+      "etree",
+      "jax",
+      "jax.numpy",
+      "linen",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_tree_utils_test.py",
+    "dependencies": [
+      "gemma",
+      "peft"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_quantization.py",
+    "dependencies": [
+      "gemma.peft",
+      "flax",
+      "Array",
+      "dtypes",
+      "Callable",
+      "einops",
+      "collections.abc",
+      "flax.linen",
+      "jax",
+      "_quantization_utils",
+      "jax.numpy",
+      "flax.typing",
+      "dataclasses",
+      "linen"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_einsum_utils.py",
+    "dependencies": [
+      "Sequence",
+      "collections.abc",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_tree_utils.py",
+    "dependencies": [
+      "typing",
+      "__future__",
+      "Any",
+      "annotations"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_quantization_test.py",
+    "dependencies": [
+      "peft",
+      "flax",
+      "gemma",
+      "etils.enp.typing",
+      "f32",
+      "etree",
+      "ArrayAliasMeta",
+      "jax",
+      "numpy",
+      "linen",
+      "etils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemma/peft/_interceptors.py",
+    "dependencies": [
+      "typing",
+      "contextlib",
+      "dataclasses",
+      "annotations",
+      "flax",
+      "epy",
+      "Any",
+      "collections",
+      "etils",
+      "abc",
+      "linen",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "colabs/quantization_aware_training.ipynb",
+    "dependencies": [
+      "kd",
+      "os",
+      "peft",
+      "treescope",
+      "gm",
+      "gemma",
+      "optax",
+      "kauldron"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "colabs/multimodal.ipynb",
+    "dependencies": [
+      "os",
+      "gm",
+      "gemma",
+      "jax.numpy",
+      "tensorflow_datasets"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "colabs/sharding.ipynb",
+    "dependencies": [
+      "kd",
+      "gm",
+      "gemma",
+      "kauldron",
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "colabs/quantization_sampling.ipynb",
+    "dependencies": [
+      "os",
+      "peft",
+      "treescope",
+      "gm",
+      "gemma",
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "colabs/tool_use.ipynb",
+    "dependencies": [
+      "gm",
+      "os",
+      "gemma",
+      "datetime"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "colabs/sampling.ipynb",
+    "dependencies": [
+      "os",
+      "gm",
+      "gemma",
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "colabs/tokenizer.ipynb",
+    "dependencies": [
+      "gm",
+      "gemma"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "colabs/lora_finetuning.ipynb",
+    "dependencies": [
+      "kd",
+      "os",
+      "treescope",
+      "gm",
+      "gemma",
+      "optax",
+      "kauldron"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "colabs/finetuning.ipynb",
+    "dependencies": [
+      "kd",
+      "os",
+      "treescope",
+      "gm",
+      "gemma",
+      "optax",
+      "kauldron"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "colabs/lora_sampling.ipynb",
+    "dependencies": [
+      "os",
+      "peft",
+      "treescope",
+      "gm",
+      "gemma",
+      "jax",
+      "jax.numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  }
+]
